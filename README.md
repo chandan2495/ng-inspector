@@ -25,3 +25,6 @@ Download the latest build from [ng-inspector.org](http://ng-inspector.org), then
 The MIT License (MIT)  
 
 See [LICENSE.md](LICENSE.md) for details.
+
+##TODO:
+- Collapse All and Expand all buttons on top.
